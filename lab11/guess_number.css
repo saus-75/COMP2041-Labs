@@ -1,0 +1,23 @@
+audio { 
+   display:none;
+}
+
+body {
+    background-color: DarkGreen;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+    color: Red;
+    font-size: 200%;
+    text-align: center;
+    padding-top: 300px;
+}
+
+input {
+    background-color: Yellow;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: 900;
+    color: Blue;
+    font-size: 100%;
+    text-align: center;
+}
+
